@@ -49,7 +49,7 @@
 
 <h2>💻 My Projects</h2>
 <p align="center">
-  <a href="https://github.com/harshitjain1924/Imaginix"><img alt="Imaginix Project" src="https://img.shields.io/badge/Imaginix-AI+Art+Generator-F7B83E?style=for-the-badge"/></a>
+  <a href="https://github.com/harshitjain1924/Imaginx"><img alt="Imaginx Project" src="https://img.shields.io/badge/Imaginx-AI+Art+Generator-F7B83E?style=for-the-badge"/></a>
   <a href="https://github.com/harshitjain1924/Snapgram"><img alt="Snapgram Project" src="https://img.shields.io/badge/Snapgram-Chat+App-6C757D?style=for-the-badge"/></a>
 </p>
 

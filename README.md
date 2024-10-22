@@ -16,6 +16,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
+  <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&style=for-the-badge"/>
 </p>
 
 ---
@@ -50,6 +51,13 @@
 <p align="center">
   <a href="https://github.com/harshitjain1924/Imaginix"><img alt="Imaginix Project" src="https://img.shields.io/badge/Imaginix-AI+Art+Generator-F7B83E?style=for-the-badge"/></a>
   <a href="https://github.com/harshitjain1924/Snapgram"><img alt="Snapgram Project" src="https://img.shields.io/badge/Snapgram-Chat+App-6C757D?style=for-the-badge"/></a>
+</p>
+
+---
+
+<h2>🐍 Watch the Snake Eat My Contributions!</h2>
+<p align="center">
+  <img src="https://github.com/harshitjain1924/harshitjain1924/blob/output/github-contribution-grid-snake.svg" alt="snake game"/>
 </p>
 
 <p align="center">

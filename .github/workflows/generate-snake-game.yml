@@ -18,13 +18,12 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: harshitjain1924
-          gif_out_path: dist/snake.svg  # You can also use "svg_out_path"
-
+          outputs: dist/github-contribution-grid-snake.svg  # Update the output file name if needed
 
       - name: Commit and Push Snake Game
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Generate Snake Game"
+          git commit -m "Generate Snake Game" || echo "No changes to commit"
           git push

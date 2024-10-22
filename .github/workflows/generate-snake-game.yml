@@ -17,8 +17,8 @@ jobs:
       - name: Generate Snake Game from GitHub Contributions
         uses: Platane/snk@v2
         with:
-  github_user_name: harshitjain1924
-  gif_out_path: dist/snake.svg  # You can also use "svg_out_path"
+          github_user_name: harshitjain1924
+          gif_out_path: dist/snake.svg  # You can also use "svg_out_path"
 
 
       - name: Commit and Push Snake Game

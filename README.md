@@ -1,16 +1,64 @@
-<h1 align="center">Hi 👋, I'm Harshit Jain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Github Readme -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitjain1924&label=Profile%20views&color=0e75b6&style=flat" alt="harshitjain1924" /> </p>
+<h1 align="center">Hello, I'm Harshit Jain! 👋</h1>
+<h3 align="center">A passionate developer with a knack for AI, web, and mobile app development.</h3>
 
-- 🌱 I’m currently learning **PHP, React, CPP**
-
-- 📫 How to reach me **harshitjain1924@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshitjain1924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshitjain1924" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7B83E&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+and+Mobile+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+
+<h2>🚀 Tech Stack</h2>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+  <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge"/>
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
+  <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&style=for-the-badge"/>
+</p>
+
+---
+
+<h2>🌟 Github Stats & Streak</h2>
+<p align="center">
+  <img alt="Harshit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshitjain1924&show_icons=true&hide=prs,issues&theme=radical&hide_border=true&count_private=true&custom_title=Harshit's+GitHub+Stats" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=harshitjain1924&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<h2>💡 Fun Facts</h2>
+<ul>
+  <li>✨ AI Enthusiast: Building AI-powered tools, from chatbots to image generators.</li>
+  <li>🎨 Love combining tech with art: Always working on cool web and mobile interfaces.</li>
+  <li>🚀 Passionate about open-source and tech communities!</li>
+</ul>
+
+---
+
+<h2>📫 Let's Connect</h2>
+<p align="center">
+  <a href="mailto:harshitjain1924@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/harshitjain1924"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/harshitjain1924"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+---
+
+<h2>💻 My Projects</h2>
+<p align="center">
+  <a href="https://github.com/harshitjain1924/Imaginix"><img alt="Imaginix Project" src="https://img.shields.io/badge/Imaginix-AI+Art+Generator-F7B83E?style=for-the-badge"/></a>
+  <a href="https://github.com/harshitjain1924/Snapgram"><img alt="Snapgram Project" src="https://img.shields.io/badge/Snapgram-Chat+App-6C757D?style=for-the-badge"/></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7bu7PcbG5OWD83U8/giphy.gif" width="100px">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshitjain1924&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+</p>

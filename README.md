@@ -57,7 +57,7 @@
 
 <h2>🐍 Watch the Snake Eat My Contributions!</h2>
 <p align="center">
- ![Snake animation](https://github.com/harshitjaimn1924/harshitjain1924/blob/output/github-contribution-grid-snake.gif)
+ ![Snake animation](https://github.com/harshitjain1924/harshitjain1924/blob/output/github-contribution-grid-snake.gif)
 </p>
 
 <p align="center">

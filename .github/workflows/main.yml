@@ -2,7 +2,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -11,18 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Check out the repository
       - uses: actions/checkout@v2
 
-      # Generate the snake without specifying output paths (they will be handled automatically)
-      - uses: Platane/snk@v2
+      # Generate the snake
+      - uses: Platane/snk@v3
         with:
           github_user_name: harshitjain1924
 
-      # Show the status of the repo (for debugging purposes)
       - run: git status
 
-      # Push the changes to the output branch
+      # Push the changes
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
@@ -30,7 +27,6 @@ jobs:
           branch: output
           force: true
 
-      # Deploy the changes to GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output

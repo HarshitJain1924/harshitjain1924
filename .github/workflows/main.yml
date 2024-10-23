@@ -1,24 +1,46 @@
-name: Generate Snake Gif
+name: Generate Snake
+
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  generate-snake:
+  build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Generate Snake Gif
-        uses: Platane/snk@v2
-        with:
-          github_user_name: harshitjain1924  # Your GitHub username
 
-      - name: Upload Snake Gif
-        uses: actions/upload-artifact@v3  # Updated to v3
-        with:
-          name: snake-gif
-          path: ./snake.svg  # Ensure this is the correct path for the generated image
+    steps:
+    # Step 1: Checkout the repository
+    - uses: actions/checkout@v2
+
+    # Step 2: Create dist directory to avoid "Build dir does not exist" error
+    - name: Create dist directory
+      run: mkdir -p dist
+
+    # Step 3: Generate snake game from GitHub contribution grid
+    - name: generate-snake-game-from-github-contribution-grid
+      uses: Platane/snk@v3.2.0
+      with:
+        github_user_name: harshitjain1924
+        output: dist/github-contribution-grid-snake.svg
+
+    # Step 4: Push changes to the output branch
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: output
+        force: true
+
+    # Step 5: Deploy to GitHub Pages
+    - name: Deploy to GitHub Pages
+      uses: crazy-max/ghaction-github-pages@v2.1.3
+      with:
+        target_branch: output
+        build_dir: dist
+        keep_history: false
+        allow_empty_commit: true
+        jekyll: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

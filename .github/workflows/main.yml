@@ -1,3 +1,11 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -9,14 +17,17 @@ jobs:
     - name: Create dist directory
       run: mkdir -p dist
 
-    # Generates the snake
-    - uses: Platane/snk@master
+    # Generates the snake (GIF)
+    - uses: Platane/snk@v2
       id: snake-gif
       with:
         github_user_name: harshitjain1924
-        gif_out_path: dist/github-contribution-grid-snake.gif
 
-    # Push the changes
+    # Check if snake files exist
+    - name: List files in dist
+      run: ls dist
+
+    # Push the changes to the output branch
     - name: Push changes
       uses: ad-m/github-push-action@v0.6.0
       with:
@@ -30,5 +41,8 @@ jobs:
       with:
         target_branch: output
         build_dir: dist
+        keep_history: false
+        allow_empty_commit: true
+        jekyll: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

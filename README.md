@@ -56,13 +56,12 @@
 ---
 
 <h2>🐍 Watch the Snake Eat My Contributions!</h2>
-<!-- platane/snk works, it just puts it on a new branch -->
-![Harshitjain1924 snake gif]
-(https://github.com/harshitjain1924/harshitjain1924/blob/output/github-snake.svg)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bu7PcbG5OWD83U8/giphy.gif" width="100px">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/harshitjain1924/harshitjain1924/blob/output/github-snake.svg)" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ---
 

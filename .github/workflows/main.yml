@@ -16,11 +16,9 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: harshitjain1924  # Your GitHub username
-          output: github-contribution-grid-snake.gif  # Ensure this is correct
 
       - name: Upload Snake Gif
-        uses: actions/upload-artifact@v3  # Updated to the latest version
+        uses: actions/upload-artifact@v3  # Updated to v3
         with:
           name: snake-gif
-          path: github-contribution-grid-snake.gif
-
+          path: ./snake.svg  # Ensure this is the correct path for the generated image

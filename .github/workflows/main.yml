@@ -4,14 +4,11 @@ name: Generate Snake
 permissions: 
   contents: write
 
-# Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
-    # every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
-# The sequence of runs in this workflow:
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -30,16 +27,24 @@ jobs:
           github_user_name: harshitjain1924
           outputs: |
             dist/github-snake.svg
-          
-      # Step 4: Add and commit the changes to the main branch
-      - name: Commit files
+      
+      # Step 4: Configure Git
+      - name: Set up Git config
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+
+      # Step 5: Pull latest changes to avoid conflicts
+      - name: Pull latest changes
+        run: git pull origin main
+
+      # Step 6: Add and commit the changes
+      - name: Commit files
+        run: |
           git add dist/github-snake.svg
           git commit -m "Generated snake"
 
-      # Step 5: Push changes to the main branch
+      # Step 7: Push changes to the main branch
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

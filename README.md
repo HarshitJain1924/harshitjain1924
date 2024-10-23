@@ -57,9 +57,8 @@
 
 <h2>🐍 Watch the Snake Eat My Contributions!</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/harshitjain1924/harshitjain1924/blob/output/github-snake.svg" />
-</picture>
+![Snake eating my contributions](./dist/github-snake.svg)
+
 
 ---
 

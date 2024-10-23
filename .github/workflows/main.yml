@@ -19,7 +19,8 @@ jobs:
           output: github-contribution-grid-snake.gif  # Ensure this is correct
 
       - name: Upload Snake Gif
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3  # Updated to the latest version
         with:
           name: snake-gif
           path: github-contribution-grid-snake.gif
+

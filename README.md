@@ -13,7 +13,6 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge"/>
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
 
 ---
 

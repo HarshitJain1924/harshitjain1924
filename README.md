@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I'm Harshit Jain! 👋</h1>
 <h3 align="center">A passionate developer with a knack for AI, web, and mobile app development.</h3>
-
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7B83E&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+and+Mobile+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
 </p>
